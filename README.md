@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fredy</h1>
 <h3 align="center">A passionate full-stack developer from Tanzania</h3>
 
-
+<a href="https://app.daily.dev/mrgreat_fredy"><img src="https://api.daily.dev/devcards/9e2017ccf2384232be26dfa3450103e4.png?r=8sw" width="400" alt="Fredy's Dev Card"/></a>
 
 - 🌱 I’m currently learning **Machine Learning, Django and Flutter**
 
