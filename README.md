@@ -20,5 +20,5 @@
 <!-- <a href="https://app.daily.dev/mrgreat_fredy"><img src="https://api.daily.dev/devcards/9e2017ccf2384232be26dfa3450103e4.png?r=8sw" width="400" alt="Fredy's Dev Card"/></a>   This is the manual Dev Card the one below is the automatic one. -->
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/fdagreat/fdagreat/blob/main/devcard.svg" width="400" alt="Fredy's Dev Card"/></a>
-<img src="devcard.svg" width="400" alt="Fredy's Dev Card New"/>
+<!-- <img src="devcard.svg" width="400" alt="Fredy's Dev Card New"/> -->
 
