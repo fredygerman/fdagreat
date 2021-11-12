@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 Some of my projects are available at [www.mrgreat.greatcompanies.net](www.mrgreat.greatcompanies.net)
+- 👨‍💻 Some of my projects are available at <a href="https://www.mrgreat.greatcompanies.net" target="_blank"> Here </a>
 
 - 📫 How to reach me **fredgerman30@gmail.com**
 
