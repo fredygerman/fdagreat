@@ -6,8 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          repository: fdagreat/linksnitch
       - uses: fdagreat/linksnitch@main
         with:
           allowedStatusCodes: '[200]'
