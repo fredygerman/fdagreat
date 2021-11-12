@@ -1,6 +1,6 @@
 name: "linksnitch action"
 description: "Check if links in README.md is working"
-author: "https://github.com/fdagreat used some code from https://github.com/LeandroLS "
+author: "https://github.com/fdagreat and https://github.com/LeandroLS "
 
 inputs:
   allowedStatusCodes:
