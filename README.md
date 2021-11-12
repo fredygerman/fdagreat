@@ -11,7 +11,10 @@
 
 - 📫 How to reach me **fredgerman30@gmail.com**
 
-- ⚡ Fun fact **I use emojis while commenting my code**
+- ⚡ Fun fact **I use emojis while commenting my code*
+
+- ✅ Fun fact about this file **I made an Action to make sure all links in here are not Broken 😁**
+check out the repo for the action - https://github.com/fdagreat/linksnitch 
 
 
 <h3 align="left">Languages and Tools:</h3>
