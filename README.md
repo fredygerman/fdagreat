@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Django and Flutter**
 
-- 👯 I’m looking to collaborate on **any project**
+- 👯 I’m looking to collaborate on **React and Python projects**
 
 - 👨‍💻 Some of my projects are available at <a href="https://www.mrgreat.greatcompanies.net" target="_blank"> Here </a>
 
